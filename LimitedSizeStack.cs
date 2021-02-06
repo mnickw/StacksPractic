@@ -10,6 +10,8 @@
 
     public void Push(T item)
     {
+        if (items.Length == 0)
+            return;
         items[top] = item;
         top = (top + 1) % items.Length;
         if (count < items.Length)

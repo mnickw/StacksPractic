@@ -1,4 +1,4 @@
-﻿# Практики «Limited Size Stack» и «Отмена»
+# Практики «Limited Size Stack» и «Отмена»
 Репозиторий содержит решения [этой](https://ulearn.me/course/basicprogramming2/Praktika_Limited_Size_Stack__cdf76069-758c-4a3c-aacb-df3fa877cac5) и [этой](https://ulearn.me/course/basicprogramming2/Praktika_Otmena__ab3d7575-9bb1-4a4f-8d07-c1a7c2646f40) задачи с ulearn.me.
 Задачи прошли код-ревью у преподавателя, за обе 50 баллов из 50. Все решения курса на максимальный балл также выложены в других репозиториях.
 Ветка unsolved содержит изначальный проект.
